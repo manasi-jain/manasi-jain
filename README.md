@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **DSA & Placement Preparations**
 
-- 💬 Ask me about **Web Development, Data Structures & Algorithms**
+- 💬 Ask me about **Web Development, Data Structures & Algorithms or Anything**
 
 - 📫 How to reach me **jain.manasi06@gmail.com**
 
